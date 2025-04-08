@@ -6,7 +6,7 @@
 
 📧 Email: kai.wang@126.com
 
-🌐 Website: [xiaoxiami.co](https://xiaoxiami.co)
+🌐 Website: [occamsrazor.cn](https://occamsrazor.cn)
 
 📍 Location: Anyang / Henan
 
