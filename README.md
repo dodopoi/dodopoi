@@ -6,7 +6,7 @@
 
 📧 Email: kai.wang@126.com
 
-🌐 Website: [occamsrazor.cn](https://occamsrazor.cn)
+🌐 Website: [guoke.co](https://guoke.co)
 
 📍 Location: Anyang / Henan
 
