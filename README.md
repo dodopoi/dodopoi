@@ -4,7 +4,7 @@
 
 主要用来部署博客。
 
-📧 Email: wangkai@guoke.co
+📧 Email: hi@guoke.co
 
 🌐 Website: [guoke.co](https://guoke.co)
 
