@@ -10,7 +10,7 @@
 
 📍 Location: Anyang / Henan
 
-![](https://count.getloli.com/get/@runofftheearth.github.readme?theme=rule34)
+![](https://count.getloli.com/get/@dodopoi.github.readme?theme=rule34)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/runofftheearth/runofftheearth/output/github-contribution-grid-snake-dark.svg">
